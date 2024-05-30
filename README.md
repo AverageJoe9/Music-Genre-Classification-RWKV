@@ -57,7 +57,7 @@ Then run
 python inference.py
 ```
 ## About Model
-Net: RWKV4
+Net: RWKV-v4
 
 Loss function: CrossEntropyLoss
 
