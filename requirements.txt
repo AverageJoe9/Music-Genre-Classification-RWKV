@@ -1,0 +1,7 @@
+librosa
+matplotlib
+numpy
+torch
+ninja
+tqdm
+wandb
